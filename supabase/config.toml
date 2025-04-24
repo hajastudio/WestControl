@@ -1,0 +1,16 @@
+
+project_id = "pscsuuvgqiawlkuqlnxm"
+
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "storage", "graphql_public"]
+
+[functions.process-cep-csv]
+verify_jwt = true
+
+[functions.webhook-handler]
+verify_jwt = true
+
+[functions.get-webhook-url]
+verify_jwt = true
