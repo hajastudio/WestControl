@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+🚀 West Control agora está ao vivo: westtelecom.app
+O sistema de viabilidade técnica e gestão inteligente West Control está no ar!
+Uma plataforma criada para facilitar a contratação de serviços, automatizar atendimentos e acelerar a instalação via WhatsApp — tudo em tempo real.
 
-## Project info
+🔗 Acesse agora:
+👉 https://westtelecom.app
+👉 Ou edite diretamente via: Lovable Project
 
-**URL**: https://lovable.dev/projects/9112a7d4-9d2a-4d16-bced-57554b2d6252
+🛠️ Tecnologias que impulsionam o projeto
+⚡️ Vite – desenvolvimento ágil e leve
 
-## How can I edit this code?
+💡 TypeScript – código mais robusto e seguro
 
-There are several ways of editing your application.
+🧩 React + shadcn-ui – design funcional e acessível
 
-**Use Lovable**
+🎨 Tailwind CSS – visual moderno e responsivo
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9112a7d4-9d2a-4d16-bced-57554b2d6252) and start prompting.
+✍️ Como editar ou colaborar?
+✅ Opção 1: Pelo Lovable (interface por prompt)
+Acesse o painel Lovable
 
-Changes made via Lovable will be committed automatically to this repo.
+Digite seus comandos e veja a mágica acontecer
 
-**Use your preferred IDE**
+Tudo é salvo e comitado automaticamente
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
+💻 Opção 2: Localmente com sua IDE
+sh
+Copiar
+Editar
+git clone <SEU_GIT_URL>
+cd <NOME_DO_PROJETO>
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
+🧠 Opção 3: GitHub Web
+Navegue até o repositório
 
-**Edit a file directly in GitHub**
+Edite diretamente com o ✏️
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Faça commit das alterações
 
-**Use GitHub Codespaces**
+☁️ Opção 4: GitHub Codespaces
+Clique em “Code > Codespaces”
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Crie um novo ambiente online com tudo configurado
 
-## What technologies are used for this project?
+🌐 Deploy e Domínio Próprio
+Já estamos online em:
+🌍 westtelecom.app
+☁️ Deploy feito diretamente pela Lovable
+🔧 Domínio configurável em Settings > Domains > Connect Domain
 
-This project is built with:
+🔗 Veja o guia completo:
+docs.lovable.dev – custom domain
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+💡 O que é o West Control?
+West Control é mais que um sistema – é um ecossistema digital de automação e atendimento:
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9112a7d4-9d2a-4d16-bced-57554b2d6252) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+✔️ Captura de leads baseada em planos
+✔️ Verificação de viabilidade técnica via CSV e CEP
+✔️ Coleta de dados/documentos
+✔️ Notificações via WhatsApp
+✔️ Painéis inteligentes para Cliente, Atendente e Administrador
+✔️ Acesso seguro sem senha (via e-mail)
